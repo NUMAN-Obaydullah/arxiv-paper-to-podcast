@@ -10,10 +10,10 @@ This project automates the process of turning research papers from ArXiv into po
 ## Requirements
 - Python 3.7+
 - Dependencies listed in `requirements.txt`.
-- pip install -r requirements.txt
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone <repository-url>
    cd arxiv-paper-to-podcast
+   pip install -r requirements.txt
